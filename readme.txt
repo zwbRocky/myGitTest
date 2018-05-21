@@ -6,4 +6,6 @@ git tracks changes
 change 111
 change 222
 add a new branch
-create a new branch is quick
+<<<<<<< HEAD
+create a new branch is quick and simple
+>>>>>>> feature1
