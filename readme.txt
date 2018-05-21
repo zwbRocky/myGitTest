@@ -9,3 +9,4 @@ add a new branch
 <<<<<<< HEAD
 create a new branch is quick and simple
 >>>>>>> feature1
+--no-off
